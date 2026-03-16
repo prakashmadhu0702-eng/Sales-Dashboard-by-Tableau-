@@ -41,8 +41,7 @@ The dataset contains sales transaction information including:
 - Profit
 - Quantity
 
-## Dashboard Preview
-(Add a screenshot of your Tableau dashboard here)
+
 
 ## Project Outcome
 This dashboard helps users quickly analyze sales performance and identify important business insights using interactive visualizations.
